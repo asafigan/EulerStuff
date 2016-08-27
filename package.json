@@ -1,0 +1,17 @@
+{
+  "name": "euler",
+  "version": "0.0.1",
+  "description": "Project Euler",
+  "engines": {
+    "node": "^6.2.2"
+  },
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "Andrew Safigan",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.15"
+  },
+  "devDependencies": {}
+}
